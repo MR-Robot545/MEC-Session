@@ -1,4 +1,5 @@
 // comment
+// author by zeyad
 #include<bits/stdc++.h>
 
 #define             endl "\n"
